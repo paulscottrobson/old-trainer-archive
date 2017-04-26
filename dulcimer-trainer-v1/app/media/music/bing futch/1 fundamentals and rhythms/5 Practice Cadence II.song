@@ -1,0 +1,20 @@
+//
+//	Track 5 Practice Cadence II
+//
+type := dulcimer
+tempo := 60 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+ XXX XXX XXX XXX|
+
+ 0 0- 0- 0o |
+ 0 0- 0- 0o |
+ 0 0 0- 0- 0 |
+ 0 0- 0- 0o |
+
+ 3 3- 3- 4o |
+ 5 5- 5- 6o |
+ 5 5 4- 4- 4 |
+ 3- 3- 3 0o |

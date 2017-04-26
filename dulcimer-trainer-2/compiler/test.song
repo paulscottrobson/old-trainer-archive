@@ -1,0 +1,17 @@
+beats := 4
+tempo := 120
+pattern_1 := v.vn.nvn:v.v.v.v.
+pattern_2 := vnvnvnvn
+tuning := d3,a3,d4
+drone := No
+chord_g := 310
+
+   @2 
+   0 1 2 3 4 5 6+ 7 |
+   X0 X1 X2 X3 X4 X5 X6+ X7 |
+   XX0 XX1 XX2 XX3 XX4 XX5 XX6+ XX7 |
+
+@2{g}I like chips {d:200}in gravy
+{} Oh {g}yeah !
+
+

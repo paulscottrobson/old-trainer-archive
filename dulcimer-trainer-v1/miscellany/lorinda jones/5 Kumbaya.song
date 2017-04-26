@@ -1,0 +1,14 @@
+//
+//	Kumbaya
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+oo 0 2 |4. 4- 4o | 5 5 4o |
+oo 0 2 |4. 4- 4o | 3 2 1o |
+oo 0 2 |4. 4- 4o | 5 5 4o |
+3. 2- 0 | 1 1 0o |

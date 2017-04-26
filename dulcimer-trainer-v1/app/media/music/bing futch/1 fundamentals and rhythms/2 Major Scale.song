@@ -1,0 +1,16 @@
+//
+//	Track 2 Major Scale
+//
+type := dulcimer
+tempo := 60 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+
+|
+
+ 3 4 5 6 |
+ 7 8 9 10 |
+ 10 9 8 7 |
+ 6 5 4 3 |

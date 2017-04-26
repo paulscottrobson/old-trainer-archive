@@ -1,0 +1,27 @@
+//
+//		Exercises 53 polly wolly doodle
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+&&& 0- 1-  "oh i" |
+2 2 0 0- 1-  "went dow n south for to" |
+2 2 0 0- 1-  "see my sal singing" |
+2- 2- 2- 2- 3- 3- 2- 2-  "polly wolly doodle all the" |
+101oo X2X- X3X-  "day my" |
+101 101 X2X X2X- X3X-  "sal she is a" |
+101 101  X2X 101- 101-  "pretty gal singing" |
+104- 104- 104- 104- 103- 103- 101- 101-  "polly wolly doodle all the" |
+0oo 0- 1-  "fare thee well" |
+2oo 0- 1-  "fare thee well" |
+2oo 0- 1-  "fare thee well" |
+2 2 3 2  "my fairy" |
+101oo X2X- X3X-  "fey for i'm" |
+101- 101- 101- 101- X2X- X2X- X2X- X2X-  "goin' to lousiana for to" |
+101- 101- 101- 101- X2X- X2X- 101- 101-  "see my susianna singing" |
+104- 104- 104- 104- 103- 103- 101- 101-  "polly wolly doodle all the" |
+000ooo  "day" |

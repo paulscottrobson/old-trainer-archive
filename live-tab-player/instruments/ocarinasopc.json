@@ -1,0 +1,10 @@
+{
+	"name":			"Ocarina Soprano C",
+	"key":			"ocarinasopc",
+	"voices":		1,
+	"soundset":		"ocarina",
+	"tuning":		[10],
+	"volume":		[1],
+	"visualtype":	[3],
+	"chromatic":	true
+}

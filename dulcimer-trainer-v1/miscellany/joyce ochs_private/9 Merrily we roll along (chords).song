@@ -1,0 +1,18 @@
+//
+//	Merrily we roll along
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+<D> 002 001 000 001 	"Merrily we" |
+002 002 002o 			"roll along" |
+<A> 1,0,1 1,0,1 1,0,1o 	"roll along" |
+<D> 002 004 004o 		"roll along" |
+<D> 002 001 000 001 	"Merrily we" |
+002 002 002o 			"roll along" |
+<A> 1,0,1 1,0,1, 1,0,2 1,0,1 "oer the deep blue"|
+XXX-- <D> 000ooo 		"sea*"|

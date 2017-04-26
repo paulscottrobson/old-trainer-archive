@@ -1,0 +1,19 @@
+//
+//		Page 28 Ode to JOy
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+|
+
+405 405- 405- 506 707 | 707 506 405 404 | 203 203 404 405 | 405 404 404 404- 404- | 405 405- 405- 506 707 |
+
+707 506 405 404 | 203 203 404 405 | 404 203 203 203- 203- | 404 404 405 403 | 404 405- 406- 405 403 |
+
+404 405- 406- 405 404 | 403 404 400 400- 400- | 405 405- 405- 506 707 | 707 506 405 404 | 203 203 404 405 | 404 403 003o |

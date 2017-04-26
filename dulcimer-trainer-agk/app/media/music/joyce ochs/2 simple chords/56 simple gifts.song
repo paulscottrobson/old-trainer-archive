@@ -1,0 +1,30 @@
+//
+//		Exercises 56 simple gifts
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+&&& X0X- X0X-  "tis the" |
+0 0- 1- 2- 0- 2- 3-  "gift to be simple tis the" |
+4 4- 3- 2 1- 0-  "gift to be free tis the" |
+101 101 101 100  "gift to come down" |
+
+101- 102- 101- X2X- X0X X0X  "where we ought to be and" |
+0- 0- 0- 1- 2- 0- 2- 3-  "when we find ourselves in the" |
+4 4- 3- 2 1- 0-  "place just right t'will" |
+101 101- 101- 102 102- 101-  "be in the valley of" |
+
+310 310- 311- 200o  "love and delight" |
+4o 2. 1- "when true sim" |
+2- 3- 2- 1- 0. 1-  "plicity is gained to" |
+2 2- 3- 4 3- 2-  "bow and to bend we" |
+
+101 101- 102- 101. X0X-  "shan't be ashamed to" |
+0o 0. 1-  "turn turn will" |
+2 2- 3- 4 3- 2-  "be our delight and by" |
+101 101 102 102- 101-  "turning turning we'll" |
+310 310 200o  "come out right" |

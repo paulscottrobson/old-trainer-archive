@@ -1,0 +1,24 @@
+{  
+   "author"      :"C.J. Veniot (Traditional Tune)",
+   "beats"       :"4",
+   "tempo"       :"80",
+   "title"       :"Twinkle twinkle little star",
+   "tuning"      :"D3,A3,D4",
+   "type"        :"dulcimer",
+   "version"     :"1",
+   "bars": [
+              "--a4--a4--h4--h",
+              "--j4--j4--h",
+              "--f4--f4--e4--e",
+              "--c4--c4--a",
+              "--h4--h4--f4--f",
+              "--e4--e4--c",
+              "--h4--h4--f4--f",
+              "--e4--e4cac",
+              "--a4--a4--h4--h",
+              "--j4--j4--h",
+              "--f4--f4--e4--e",
+              "--c4--c4aaa"
+
+           ]
+}  

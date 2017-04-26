@@ -1,0 +1,17 @@
+//
+//		Ukulele demo.
+//
+type := ukulele
+beats := 4
+tempo := 150
+pattern_1 := v.vn.nvn:v.v.v.v.
+pattern_2 := vnvnvnvn
+chord_C := 0003
+chord_G := 0232
+chord_Am := 2000
+
+G0C0E0A0| [1234]
+{C} @1 {G} Hello world|This is|me|{4Am}I @2 like chips
+[0003]|
+
+

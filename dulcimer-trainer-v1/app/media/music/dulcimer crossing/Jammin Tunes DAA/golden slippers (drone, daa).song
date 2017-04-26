@@ -1,0 +1,27 @@
+//
+//	DAA Golden Slippers (Drone)
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+// Repeated part of verse
+
+:v 	5 5 5- 4- 3- 4- | 5 5 5 3- 4- | 5 5 6 5 | 5 4 4 2- 3- | 
+	4 4 4- 3- 2- 3- | 4 4 4 2- 3- | 4 6 5 4 |  ;
+
+// Repeated part of chorus
+
+:c 	0oo 3 | 5 4 3 2 | 1oo 4 | 6 5 4 3 | 2 2- 2- 2 3 | ;
+
+ooo 3- 4- | 
+$v
+4 3 3 3- 4- |
+$v
+4 3 3o |
+$c
+4 4- 4- 4 2 |  3 3- 3- 3 4 | 5ooo |
+$c
+4 4- 4- 6 6 | 5 5- 6- 5 4 | 3ooo |

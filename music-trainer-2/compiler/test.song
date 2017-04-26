@@ -1,0 +1,13 @@
+//
+//		22: White Pelican
+//
+beats := 4
+tempo := 150
+pattern_1 := v.vn.nvn:v.v.v.v.
+pattern_2 := vnvnvnvn
+
+G0D0A0E0|
+{C} @1 {D} {G} Hello world|This is|me|{4A7}I @2 like chips
+[3200]|
+
+

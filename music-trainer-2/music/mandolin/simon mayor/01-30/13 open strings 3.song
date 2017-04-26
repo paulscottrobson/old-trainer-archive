@@ -1,0 +1,14 @@
+//
+//		13: Open Strings 3
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & @1 |
+
+E0A0D0G0 | G0D0A0E0 | E0A0D0G0 | G0D0A0E0 | 
+E0D0A0G0 | E0D0A0G0 | D0A0E0G0 | D0A0E0G0 |
+
+E0A0D0G0 | G0D0A0E0 | E0A0D0G0 | G0D0A0E0 | 
+E0D0A0G0 | E0D0A0G0 | D0A0E0G0 | D0A0E0G0 |

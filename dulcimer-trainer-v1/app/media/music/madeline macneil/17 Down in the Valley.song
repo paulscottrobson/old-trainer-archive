@@ -1,0 +1,17 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	17 Down in the Valley
+//
+
+type := dulcimer
+tempo := 100 					
+beats := 3
+tuning := d3,a3,a3
+
+ |
+
+0 3 24 | 35 35- 35- 35 | 33 33- 33- 33 | 35 34 33 |
+404 404- 404- 404 | 404 404- 404- 404 | 400 402 404 | 407 407- 407- 407 |
+407 407- 407- 407 | 406 405 404 | 003 003- 003- 003 | 003oo |
+

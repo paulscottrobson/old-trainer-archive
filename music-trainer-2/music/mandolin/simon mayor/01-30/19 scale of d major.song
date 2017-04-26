@@ -1,0 +1,11 @@
+//
+//		19 : Scale of D major
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & |
+
+D0245|A0245
+D0245|A0245

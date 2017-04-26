@@ -1,0 +1,12 @@
+//
+// Go tell Aunt Rhody
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2o 2 1 | 0o 0o | 1o 1 3 | 2 1 0o |
+4o 4 3 | 2o 2 2 | 1 0 1 2 | 0ooo |

@@ -1,0 +1,12 @@
+//
+//	Track 8 This Old Man
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+|
+7 5 7o | 7 5 7 o | 8 7 6 5 | 4 5 6 5- 6- |
+
+7 3 3- 3- 3 | 3- 4- 5- 6- 7o | 7 4 4 6 | 5 4 3o |

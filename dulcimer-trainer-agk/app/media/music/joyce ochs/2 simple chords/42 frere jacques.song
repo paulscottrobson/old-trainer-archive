@@ -1,0 +1,18 @@
+//
+//		Exercises 42 frere jacques
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+0 1 2 0 "frere jacques"|
+0 1 2 0 "frere jacques"|
+2 3 4o "dormez vous ?"|
+2 3 4o "dormez vous ?"|
+4- 5- 4- 3- 2 0 "sonnez les matines"|
+4- 5- 4- 3- 2 0 "sonnez les matines"|
+0 X0X 0o "din dan don"|
+0 X0X 0o "din dan don"|

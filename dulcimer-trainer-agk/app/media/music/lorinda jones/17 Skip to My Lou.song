@@ -1,0 +1,21 @@
+//
+//		Skip to My Lou
+//
+type := dulcimer
+tempo := 140 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.v.v.v.
+pattern_2 := v...v...
+drone := Yes
+syncopation := 50
+
+chord_d := 2,0,0
+chord_a := 1,0,1
+
+@1 	[]|
+	[ D] "Skip, skip/ skip to my lou"|
+ 	[ A] "Skip, skip/ skip to my lou"|
+ 	[ D] "Skip, skip/ skip to my lou"|
+ 	[ A] "Skip to my lou my"|
+@2 	[ D] "darling"|

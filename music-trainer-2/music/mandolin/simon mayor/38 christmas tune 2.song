@@ -1,0 +1,13 @@
+//
+//		38: Christmas Tune 2
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & |
+
+A555^0|550|2024|5o5o
+A555^0|550|2024|5o5o
+E5320|20V5|A2024|5o5o
+A0024|55^0|E5320|v5o3o|v5

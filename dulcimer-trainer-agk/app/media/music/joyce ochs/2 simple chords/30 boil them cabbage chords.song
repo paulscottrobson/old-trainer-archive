@@ -1,0 +1,18 @@
+//
+//		Exercises 030 Boil them Cabbage chords
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+002 002 002 002 "boil them cabbage" |
+013 013 013 013 "down down" |
+002 002 002 002 "turn them hoecakes" |
+101 101 101 101"round round" |
+002 002 002 002 "only song that" |
+013 013 013 013 "i can sing is" |
+002 002 101 101"boil them cabbage" |
+000ooo "down" |

@@ -1,0 +1,15 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	2. Strumming in Rhythm 1
+//
+
+type := dulcimer
+tempo := 60 					
+beats := 4
+tuning := d3,a3,a3
+|
+ 3 3 3 3 |
+ 4 4 4 4 |
+ 5 5 5 5 |
+ 4 4 4 4 |

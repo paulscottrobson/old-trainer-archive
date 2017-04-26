@@ -1,0 +1,123 @@
+//
+//	DAA Portable Chord Shapes
+//
+type := dulcimer
+tempo := 40 					
+beats := 4
+tuning := d3,a3,a3
+pattern_1 := v.......
+drone := No
+
+// 2 Finger Slant
+
+chord_a.0 := 1,0,2
+chord_d.0 := 2,0,3
+chord_a7.0 := 3,0,4
+chord_d.0a := 4,0,5
+chord_gadd2.0 := 5,0,6
+chord_d7.0 := 6,0,7
+chord_a.0a := 6+,0,7
+chord_d.9b := 7,0,8
+
+// No skip triangle
+
+chord_a.1 := 1,0,2
+chord_bm.1 := 2,1,3
+chord_a7.1 := 3,2,4
+chord_d.1 := 4,3,5
+chord_em.1 := 5,4,6
+chord_d7.1 := 6,5,7
+chord_dmaj7.1 := 6+,5,7
+chord_g.1 := 7,6,8
+
+// Left triangle skip 1
+
+chord_asus2.2 := 1,0,1
+chord_f#m.2 := 2,0,2
+chord_g.2 := 3,1,3
+chord_a.2 := 4,2,4
+chord_bm.2 := 5,3,5
+chord_c.2 := 6,4,6
+chord_d.2 := 7,5,7
+chord_em.2 := 8,6,8
+
+// Skip 1 triangle
+
+chord_em.3 := 3,1,4
+chord_f#m.3 := 4,2,5
+chord_g.3 := 5,3,6
+chord_am.3 := 6,4,7
+chord_bm.3 := 7,5,8
+chord_a7.3 := 8,6,9
+chord_d.3 := 9,7,10
+
+// L Skip 1
+
+chord_dmaj7.4 := 0,0,2
+chord_em7.4 := 1,1,3
+chord_f#m7.4 := 2,2,4
+chord_gmaj7.4 := 3,3,5
+chord_a7.4 := 4,4,6
+chord_b7.4 := 6,6,8
+chord_cmaj7.4 := 6+,6+,8
+chord_dmaj7.4a := 7,7,9
+
+// 2 Finger Slant
+
+@1|
+[a.0] "*2 Finger Slant*" |
+[d.0] "*2 Finger Slant*" |
+[a7.0] "*2 Finger Slant*" |
+[d.0a] "*2 Finger Slant*" |
+[gadd2.0] "*2 Finger Slant*" |
+[d7.0] "*2 Finger Slant*" |
+[a.0a] "*2 Finger Slant*" |
+[d.9b] "*2 Finger Slant*" |
+
+// No skip triangle
+
+@1|
+[a.1] "*Triangle*" |
+[bm.1] "*Triangle*" |
+[a7.1] "*Triangle*" |
+[d.1] "*Triangle*" |
+[em.1] "*Triangle*" |
+[d7.1] "*Triangle*" |
+[dmaj7.1] "*Triangle*" |
+[g.1] "*Triangle*" |
+
+// Left triangle skip 1
+
+@1|
+[asus2.2] "*Left Triangle Skip*" |
+[f#m.2] "*Left Triangle Skip*" |
+[g.2] "*Left Triangle Skip*" |
+[a.2] "*Left Triangle Skip*" |
+[bm.2] "*Left Triangle Skip*" |
+[c.2] "*Left Triangle Skip*" |
+[d.2] "*Left Triangle Skip*" |
+[em.2] "*Left Triangle Skip*" |
+
+// Skip 1 triangle
+
+@1|
+[em.3] "*Triangle Skip*" |
+[f#m.3] "*Triangle Skip*" |
+[g.3] "*Triangle Skip*" |
+[am.3] "*Triangle Skip*" |
+[bm.3] "*Triangle Skip*" |
+[a7.3] "*Triangle Skip*" |
+[d.3] "*Triangle Skip*" |
+
+// L Skip 1
+
+@1|
+[dmaj7.4] "*L Skip 1*" |
+[em7.4] "*L Skip 1*" |
+[f#m7.4] "*L Skip 1*" |
+[gmaj7.4] "*L Skip 1*" |
+[a7.4] "*L Skip 1*" |
+[b7.4] "*L Skip 1*" |
+[cmaj7.4] "*L Skip 1*" |
+[dmaj7.4a] "*L Skip 1*" |
+

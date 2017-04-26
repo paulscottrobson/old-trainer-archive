@@ -1,0 +1,15 @@
+//
+//		Exercises 39 dipping down
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+000 X0X 000o "strum pluck strum"|
+000 X0X 000o "strum pluck strum"|
+000 X0X 000o "strum pluck strum"|
+000 X0X 000o "strum pluck strum"|
+000 X0X 000o "strum pluck strum"|

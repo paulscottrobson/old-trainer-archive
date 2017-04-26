@@ -1,0 +1,17 @@
+//
+// Twinkle Twinkle Little Star
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+0 0 4 4 | 5 5 4o |
+3 3 2 2 | 1 1 0o |
+4 4 3 3 | 2 2 1o |
+4 4 3 3 | 2 2 1o |
+0 0 4 4 | 5 5 4o |
+3 3 2 2 | 1 1 0o |
+

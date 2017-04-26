@@ -1,0 +1,11 @@
+//
+//		18 : Scale of A major
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & |
+
+A0245|E0245
+A0245|E0245

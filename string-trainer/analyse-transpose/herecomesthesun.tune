@@ -1,0 +1,25 @@
+//
+//	Here comes the sun
+//
+title := Here comes the sun
+author := George Harrison
+beats := 4
+tempo := 80
+tuning := D3,A3,D4
+
+//
+//	Accidentals is allowed for reading in notes.
+//
+accidentals := C#,F#,G#
+
+// Little Darling , it's been a long cold lonely winter
+& c- A- B- c- | &- c B A F- | &- A B A. | F- E.oo
+
+// Little darling it seems like years since its been hee
+& c- A- B- c- | &- c B A F- | &- c- B A G- | &
+
+// Here comes the sun.... Here comes the sun ... and I say
+& c- B c A- | & E- C- D- E. | & c- B c A- | &. c- B A
+
+// It's all-right (twiddly bit)
+&- c B A E- | F- A- B- E- A- B- D- A- | B- E- A- B- A- G- F- E- 

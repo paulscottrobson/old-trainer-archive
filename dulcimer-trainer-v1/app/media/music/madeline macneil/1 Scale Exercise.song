@@ -1,0 +1,27 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	1. Scale Exercise
+//
+
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,a3
+|
+ 0XX ooo |
+ 1XX ooo |
+ 2XX ooo |
+ 3XX ooo |
+ XX0 ooo |
+ XX1 ooo |
+ XX2 ooo |
+ XX3 ooo |
+ XX4 ooo |
+ XX5 ooo |
+ XX6 ooo |
+ XX7 ooo |
+ XX8 ooo |
+ XX9 ooo |
+ XXt ooo |
+

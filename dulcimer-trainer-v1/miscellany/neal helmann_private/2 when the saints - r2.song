@@ -1,0 +1,29 @@
+//
+//		When the saints go marching in
+//
+type := dulcimer
+tempo := 140 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.vnvnvn
+drone := Yes
+syncopation := 50
+
+chord_d := 0,0,2
+chord_a := 1,0,1
+chord_d.p := 0,0,0
+chord_a.p := 4,4,4
+chord_g := 0,1,3
+
+@1 	[]|
+
+		"*Oh when the" |
+[D.p]	"saints*/go marching/*in" |
+[]		"*oh when the/saints go/marching" |
+[A.p]	"in*/*Oh lord I" |
+[D.p]	"want to/be in that" |
+[G]		"number*/*when the" |
+[D]		"saints go" |
+[A]		"marching" |
+[D.p]	"in*"|
+

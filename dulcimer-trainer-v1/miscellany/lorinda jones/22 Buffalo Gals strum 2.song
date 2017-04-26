@@ -1,0 +1,28 @@
+//
+//		Buffalo Gals strum 2
+//
+type := dulcimer
+tempo := 140 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := vnv.vnv.
+drone := Yes
+syncopation := 50
+
+chord_d := 2,0,0
+chord_a := 1,0,1
+
+@1 	[] 		"*as"|
+	[D] 	"I was walking/down the street"|
+	[A] 	"Down the street"|
+	[D] 	"Down the street. A"|
+	[D]		"Pretty little girl I/chanced to meet, oh"|
+	[A] 	 "She was fair to"|
+	[D] 	"view*"|
+
+	[D]		"Buffalo girls won't you/come out tonight"|
+	[A] 	"Come out tonight"|	
+	[D] 	"Come out tonight"|
+	[D]		"Buffalo girls won't you/come out tonight and"|
+	[A]		"dance by the light of the"|
+	[D]		"moon*"|

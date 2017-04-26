@@ -1,0 +1,11 @@
+//
+// Bile them cabbage down
+//
+type := dulcimer
+tempo := 60 					
+beats := 2
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2- 2- 2- 2- | 3 3 | 2- 2- 2- 2- | 1o | 2- 2- 2- 2- |3- 3- 3- 3- | 2- 2- 1- 1- | 0o |

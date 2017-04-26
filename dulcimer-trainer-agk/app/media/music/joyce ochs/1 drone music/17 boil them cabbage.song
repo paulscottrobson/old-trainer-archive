@@ -1,0 +1,18 @@
+//
+//		Exercises 17 Boil them Cabbage melody only
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2 2 2 2 "boil them cabbage" |
+3 3 3 3 "down down" |
+2 2 2 2 "turn them hoecakes" |
+1 1 1 1 "round round" |
+2 2 2 2 "only song that" |
+3 3 3 3 "i can sing is" |
+2 2 1 1 "boil them cabbage" |
+0ooo "down" |

@@ -1,0 +1,26 @@
+{
+    "author":"Lennon and McCartney",
+    "beats":"4",
+    "tempo":"80",
+    "title":"Yesterday",
+    "tuning":"D3,A3,A#3",
+    "type":"dulcimer",
+    "version":"1",
+    "bars":[
+            "2--h2--f2--f",
+            "4--j2--l2-o-2--o2--q2--r",
+            "--q3--o1--o",
+            "4--o2--o2--m2--k2--j2--h",
+            "--k4--j2--j6--h",
+            "--f4--j2--h6--c",
+            "--f4--j2--j",
+            "--j8--j",
+            "--o4--q4--r4--q2--o",
+            "--q6--o2--m4--o",
+            "--j",
+            "--j8--j",
+            "--o4--q4--r4--q2--o",
+            "--q6--o2--m4--q",
+            "--r4--m4--k4--j"
+     ]
+}

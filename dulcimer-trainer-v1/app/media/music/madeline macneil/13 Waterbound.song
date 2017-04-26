@@ -1,0 +1,20 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	13 Waterbound.
+//
+
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,a3
+
+|
+ 405 404 203 203- 203- 	"Waterbound and I" |
+ 405 405 203 203- 203- 	"can't go home" |
+ 405 404 203 203- 203- 	"Waterbound and I" |
+ 303 301 000 000- 000- 	"can't go home" |
+ 000 001 003 003- 003-		"Waterbound and I" |
+ 035 057 068 068 			"can't go home, Way" |
+ 057 035 404 404- 404- 	"down to North Caro-" |
+ 003 003- 003- 003o 		"-lina." |

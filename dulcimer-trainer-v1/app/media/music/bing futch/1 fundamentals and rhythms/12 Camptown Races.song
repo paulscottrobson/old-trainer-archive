@@ -1,0 +1,13 @@
+//
+//	Track 12 Camptown Races
+//
+type := dulcimer
+tempo := 120 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+|
+7 7 5 7 | 8 7 5o | 5 4ooo | 5 4ooo |
+7 7 5 7 | 8 7 5o | 4o 5 4 | 3ooo |
+3o 5 7 | 10ooo | 8o 10 8 | 7ooo |
+7 7 5 7 | 8 7 5o | 4o 5 4 | 3ooo |

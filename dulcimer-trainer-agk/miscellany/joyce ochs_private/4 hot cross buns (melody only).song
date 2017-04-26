@@ -1,0 +1,13 @@
+//
+//	Hot cross buns
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+2 1 0o "Hot cross buns !"|
+2 1 0o "Hot cross buns !"|
+0- 0- 0- 0- 1- 1- 1- 1- "1-a-penny 2-a-penny"|
+2 1 0o "Hot cross buns !"|

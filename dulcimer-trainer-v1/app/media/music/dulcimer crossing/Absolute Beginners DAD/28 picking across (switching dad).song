@@ -1,0 +1,31 @@
+//
+//	DAD Playing Across Strings (Switching)
+//
+type := dulcimer
+tempo := 90 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.v.v.v.
+drone := No
+
+:a ^^0 ^^0 ^^0 ^^0 | ;
+:b ^0 ^0 ^0 ^0 | ;
+:c 0 0 0 0 | ;
+:d 0 ^0 ^^0 ^0 | ;
+
+|
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d
+$d

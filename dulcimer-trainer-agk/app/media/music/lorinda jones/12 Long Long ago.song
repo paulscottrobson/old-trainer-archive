@@ -1,0 +1,12 @@
+//
+// Long long ago
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+0 0- 1- 2 2- 3- | 4 5- 4- 2o | 4 3- 2- 1o | 3 2- 1- 0o |
+0 0- 1- 2 2- 3- | 4 5- 4- 2o |4 3- 2- 1 2- 1- | 0ooo |

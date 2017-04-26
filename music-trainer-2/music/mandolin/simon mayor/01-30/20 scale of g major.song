@@ -1,0 +1,11 @@
+//
+//		20 : Scale of G major
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & |
+
+G0245|D0245
+G0245|D0245

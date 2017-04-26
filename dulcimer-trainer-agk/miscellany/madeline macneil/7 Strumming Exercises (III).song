@@ -1,0 +1,18 @@
+//
+//		Page 14: Strumming Exercises (III)
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80 					
+beats := 3
+tuning := d3,a3,a3
+drone := Yes
+|
+3 5- 5- 5 |
+4 6- 6- 6 |
+7 5 3 |
+4 5- 5- 4 |
+3 3- 3- 3 |

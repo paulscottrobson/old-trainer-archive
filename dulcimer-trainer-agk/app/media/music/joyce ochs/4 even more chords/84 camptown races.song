@@ -1,0 +1,29 @@
+//
+//		Exercises 84 camptown races
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+  "" |
+ 4 4 2 4 "Camptown ladies" |
+ 5 4 2o  "sing this song" |
+ 102 101oo  "doo dah" |
+ 102 101oo  "doo dah" |
+
+ 4 4 2 4  "camptown racetrack's" |
+ 5 4 2o  "five miles long" |
+ 101o 102 101  "oh doo dah" |
+ 000oo  "day" |
+
+ 0. 0- 2 4  "goin to run all" |
+ 057ooo  "night" |
+ 065. 065- 067 065  "goin to run all" |
+ 054oo 2  "day I" |
+
+ 4 4 2- 2- 4- 4-  "bet my money on a" |
+ 5 4 2o  "bob tail nag" |
+ 101 102- 103- 102 101- 101-  "somebody bet on the" |
+ 200oo 0XX  "bay" |

@@ -1,0 +1,31 @@
+{
+  "name":"Camptown Races",
+  "author":"",
+  "instrument":"Ocarina",
+  "type":"OCARINACSOP",
+  "speed":"100",
+  "beats":"4",
+  "bars":[
+          "A2C2D2F2H2I2K2N",
+          "M2O1P2R2T2U2W2E",
+          "-84M",
+          "M4M4J4M",
+          "O4M4J",
+          "J4H",
+          "J4F",
+          "-84M",
+          "M4M4J4M",
+          "O4M4J",
+          "H8J4H",
+          "F",
+          "F6F2J4M",
+          "F",
+          "O6O2R4O",
+          "M",
+          "-84J2K",
+          "M4M4J4M",
+          "O4M4J",
+          "H6K2J4H",
+          "F"
+         ]
+}

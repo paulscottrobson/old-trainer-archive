@@ -1,0 +1,10 @@
+{
+	"name":			"Dulcimer tuned DAD",
+	"key":			"dulcimerdad",
+	"voices":		3,
+	"soundset":		"dulcimer",
+	"tuning":		[3,10,15],
+	"volume":		[0.5,0.5,1],
+	"visualtype":	[1,1,2],
+	"chromatic":	false
+}

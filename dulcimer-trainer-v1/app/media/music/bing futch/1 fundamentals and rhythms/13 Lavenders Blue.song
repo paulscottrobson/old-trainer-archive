@@ -1,0 +1,13 @@
+//
+//	Track 13 Lavender's Blue
+//
+type := dulcimer
+tempo := 120 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+|
+3o 5 6 | 7o 6- 5- 4- 3- |  & 10 9 8 | 7ooo |
+10o 9 8 | 7o 6- 5- 4- 3- | & 4 4 5 | 4ooo |
+3o 5 8 | 7o 6- 5- 4- 3- | & 10 9 8 | 7ooo |
+10o 9 8 | 7o 6- 5- 4- 3- | 8o 9o | 10ooo |

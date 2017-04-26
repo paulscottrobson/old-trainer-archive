@@ -1,0 +1,14 @@
+//
+//	Strumming Note Values 
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2 2 2 2 | 2o 2o | 2ooo | 2- 2- 2- 2- 2- 2- 2- 2- |
+2 2 2 2 | 2o 2o | 2ooo | 2- 2- 2- 2- 2- 2- 2- 2- |
+2 2 2 2 | 2o 2o | 2ooo | 2- 2- 2- 2- 2- 2- 2- 2- |
+2 2 2 2 | 2o 2o | 2ooo | 2- 2- 2- 2- 2- 2- 2- 2- |

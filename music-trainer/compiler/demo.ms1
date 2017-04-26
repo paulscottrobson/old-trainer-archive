@@ -1,0 +1,13 @@
+//
+//	Setup stuff
+//
+name := Waterbound
+author := Madelaine McNeil
+instrument := Dulcimer
+type := dulcimerdaa
+speed := 100
+beats := 4
+
+405 404 203 203- 203- | 405 404 203o | 404 404 405 405- 405- | 303 301 000o
+
+000 001 003 003- 003- | 035 057 068 068 | 057 035 404 404- 404- | 003o 003o

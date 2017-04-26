@@ -1,0 +1,26 @@
+//
+//		Page 26 : Down in the Valley
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80					
+beats := 3
+tuning := d3,a3,a3
+drone := Yes
+|
+
+000 003 024 "Down in the"|
+035 035- 035- 035 "val"|
+033 033- 033- 033 "ley"|
+035 034 033 "valley so"|
+404 404- 404- 404 "low"|
+404 404- 404- 404 ""|
+400 402 404 "hand your head"|
+407 407- 407- 407 "o"|
+407 407- 407- 407 "ver"|
+406 405 404 "ear the wind"|
+003 003- 003- 003 "blow"|
+003oo ""|

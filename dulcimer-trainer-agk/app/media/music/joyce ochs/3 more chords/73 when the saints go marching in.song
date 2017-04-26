@@ -1,0 +1,29 @@
+//
+//		Exercises 73 when the saints go marching in
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+  "" |
+& 0 2 3  "Oh when the" |
+4ooo  "saints" |
+& 0 2 3  "go marching" |
+4ooo  "in" |
+
+& 0 2 3  "Oh when the" |
+4o 2o  "saints go" |
+0o 2o  "marching" |
+101ooo  "in" |
+
+& 102 102 101  "oh lord I" |
+0oo 0  "want to" |
+2o 4 4  "be in that" |
+014 013oo  "number" |
+
+&& 012 013  "when the" | 
+4o 2o  "saints go" |
+0o 101o  "marching" |
+0ooo  "in" |

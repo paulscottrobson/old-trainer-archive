@@ -1,0 +1,27 @@
+//
+//		Demo song
+//
+name := Amazing Grace
+composer := Peters/Bogart
+beats := 3
+speed := 80
+//
+//		Patterns
+//
+pattern0 := d.d.du
+//
+//		Chords
+//
+#C 0,0,0,3
+#F 2,0,1,0
+#G7 0,2,1,2
+#Am 2,0,0,0
+#C7 0,0,0,1
+//
+//
+//
+@0 A | [C] mazing | [C7] grace how | [F] sweet the
+[C] sound that| saved a | [Am] wretch like | [G7] me
+I | [C] once was | [C7] lost but | [F] now am 
+[C] found was | [Am] blind but | [G7] now I | [C] see
+

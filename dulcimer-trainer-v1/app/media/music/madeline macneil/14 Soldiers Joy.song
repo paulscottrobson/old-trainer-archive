@@ -1,0 +1,18 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	14 Soldier's Joy
+//
+
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,a3
+
+| 
+
+7 5 7 5 | 7 10 10 10- 10- | 7 5 7 5 | 6 4 4 4- 4- |
+7 5 7 5 | 7 10 10 10- 11- | 12 10 11 9 | 10 10 10 10- 10- |
+
+5 6 7 7- 7- | 4 5 6 6- 6- | 5 6 7 7- 7- | 4 2 0 0- 0- |
+5 6 7 7- 7- | 4 5 6 6- 6- | 5 3 4 2 | 3 3- 3- 3o |

@@ -1,0 +1,30 @@
+//
+//		Exercises 90 Swing low sweet chariot
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+&&& 2 "swing" |
+0oo 2  "low sweet" |
+310o 310- X1X- X0X- 0XX-  "chariot" |
+0- 0- 0- 0- 2- 2- 4  "comin for to carry me" |
+
+324oo 325- 324-  "home swing" |
+2oo 4  "low sweet" |
+310o 310- X1X- X0X- 0XX-  "chariot" |
+210- 210- 210- 210- 102- 102- 101  "comin for to carry me" |
+
+200o 0XX 002  "home I" |
+004- 000 X1X- 000- 000 X1X-  "looked over jordan and" |
+310- 310- 310 X1X- X0X 0XX  "what did i see" |
+0- 0- 0- 0- 2- 2- 4  "comin for to carry me" |
+
+324oo 324  "home a" |
+5 4 2- 1- 0  "band of angels" |
+310- 310- 310- 310-  X1X- X0X.  "comin after me" |
+210- 210- 210- 210- 102- 102- 101  "comin for to carry me" |
+000o 0XXo  "home" |

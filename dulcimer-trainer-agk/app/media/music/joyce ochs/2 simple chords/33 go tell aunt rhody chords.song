@@ -1,0 +1,18 @@
+//
+//		Exercises 33 go tell aunt rhody chords
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2o 2 1 "go tell aunt"|
+0o 0o "rhody"|
+101o 101 103 "go tell aunt"|
+102 101 0o "rhody"|
+4o 4 3 "go tell aunt"|
+2o 2 2 "rhody the"|
+101 100 101 102 "old grey goose is"|
+000 "dead"|

@@ -1,0 +1,14 @@
+//
+//	Track 7 Aura Lee
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+|
+0 3 2 3 | 4 1 4o | 3 2 1 2 | 3ooo |
+0 3 2 3 | 4 1 4o | 3 2 1 2 | 3ooo |
+
+5 5 5o | 5 5 5o | 5 4 3 4 | 5ooo | 5 5 6 5 | 4 1 4o | 3 2 1 2 | 3ooo |

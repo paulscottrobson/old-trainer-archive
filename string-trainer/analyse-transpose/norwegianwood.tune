@@ -1,0 +1,22 @@
+//
+//	Here comes the sun
+//
+title := Norwegian Wood
+author := George Harrison
+beats := 3
+tempo := 110
+tuning := D3,A3,D4
+
+//
+//	Accidentals is allowed for reading in notes.
+//
+accidentals := F#
+
+& & & 
+
+doo | e d c | Boo | A c B | Goo | F@ c E | Doo | & |
+doo | e d c | Boo | A c B | Goo | F@ c E | Doo 
+&&G | d d d | d c c | c Bb Bb | Bb c. Bb- | c | & 
+&&D | d d d | d c c | c Bb Bb | Bb c. Bb- | c | & 
+
+

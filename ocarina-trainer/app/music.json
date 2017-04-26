@@ -1,0 +1,25 @@
+{
+    "author":"Traditional",
+    "beats":4,
+    "name":"Camptown Races",
+    "speed":100,
+    "bars":[
+                "-3-3-3M3",
+                "M3M3J3M3",
+                "O3M3J5",
+                "J3H6",
+                "J3H5M3",
+                "M3M3J3M3",
+                "O3M3J5",
+                "H5J3H3",
+                "F7",
+                "F4F1J3M3",
+                "R7",
+                "O4O1R3O3",
+                "M6J1K1",
+                "M3M3J3M3",
+                "O3M3J5",
+                "H4K1J3H3",
+                "F7"
+           ]
+}

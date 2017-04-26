@@ -1,0 +1,27 @@
+//
+//		Exercises 42 skip to my lou
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2 2 0 0 "lost my partner"|
+2- 2- 2 4o "what'll i do?"|
+101 101 X2X X2X "lost my partner"|
+101- 101- 101 103o "what'll i do?"|
+2 2 0 0 "lost my partner"|
+2- 2- 2 4o "what'll i do?"|
+101 102- 103- 102 101 "skip to my lou my"|
+0o 0o "darling"|
+
+2o 0o "skip skip"|
+2 2- 2- 4o "skip to my lou"|
+101o X2Xo "skip skip"|
+101 101- 101- 103o "skip to my lou"|
+2o 0o "skip skip"|
+2 2- 2- 4o "skip to my lou"|
+101 102- 103- 102 101 "skip to my lou my"|
+0o 0o "darling"|

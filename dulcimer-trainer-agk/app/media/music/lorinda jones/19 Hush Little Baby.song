@@ -1,0 +1,25 @@
+//
+//		Hush little baby 
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.v.v.v.
+pattern_2 := v...v...
+drone := Yes
+syncopation := 50
+
+chord_d := 2,0,0
+chord_a := 1,0,1
+
+@1 	[]|
+
+	[D] "Hush, little baby"|
+	[A] "don't say a word." |
+	[A]"Papa's gonna buy you a " |
+	[D]"mockingbird*" |
+	[D]"And if that mocking" |
+	[A] "bird won't sing" |
+	[A] "Papa's gonna buy you a" |
+	[D] "diamond ring*" |

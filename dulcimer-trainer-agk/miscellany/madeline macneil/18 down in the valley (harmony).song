@@ -1,0 +1,19 @@
+//
+//		Page 27 : Down in the Valley (Harmony part)
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80					
+beats := 3
+tuning := d3,a3,a3
+drone := Yes
+|
+
+033 035 046 | 057 057- 057- 057 | 035 035- 035- 035 | 057 046 035 |
+
+046 046- 046- 046 | 046 046- 046- 046 | 400 300 100 | 400 400- 400- 400 |
+
+400 400- 400- 400 | 402 503 402 | 405 405- 405- 405 | 405oo |

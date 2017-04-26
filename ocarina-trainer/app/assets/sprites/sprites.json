@@ -1,0 +1,49 @@
+{
+    "frames":{
+        "background": {
+            "frame":{ "x":0,"y":304,"w":252,"h":192 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":252,"h":192 },
+            "sourceSize":{ "w":252,"h":192 }
+        },
+        "sharp": {
+            "frame":{ "x":0,"y":500,"w":80,"h":141 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":80,"h":141 },
+            "sourceSize":{ "w":80,"h":141 }
+        },
+        "rectangle": {
+            "frame":{ "x":164,"y":500,"w":76,"h":51 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":76,"h":51 },
+            "sourceSize":{ "w":76,"h":51 }
+        },
+        "frame": {
+            "frame":{ "x":84,"y":500,"w":79,"h":79 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":79,"h":79 },
+            "sourceSize":{ "w":79,"h":79 }
+        },
+        "treble": {
+            "frame":{ "x":0,"y":0,"w":186,"h":300 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":186,"h":300 },
+            "sourceSize":{ "w":186,"h":300 }
+        }
+    },
+    "meta":{
+        "app":"Paul Robson's Python texture packer",
+        "version":"1.0",
+        "image":"sprites.png",
+        "size":{
+             "w":256,
+             "h":643
+         },
+         "scale":1
+    }
+}

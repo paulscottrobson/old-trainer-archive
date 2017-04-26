@@ -1,0 +1,14 @@
+//
+//		Exercises 31 Hot cross buns chords
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+002 101 000o "hot cross buns"|
+002 101 000o "hot cross buns"|
+000- 000- 000- 000- 101- 101- 101- 101- "1 an penny , 2 a penny"|
+002 101 000o "hot cross buns"|

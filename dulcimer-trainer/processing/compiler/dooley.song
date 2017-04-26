@@ -1,0 +1,13 @@
+
+name := Tom Dooley
+author := Traditional
+beats := 4
+speed := 80
+tuning := DAD
+drone := Yes
+transpose := -3
+format := 1
+
+0013|5o5o|0-00-13|4ooo|0013
+4o4o|4-45-31|3ooo|0-00-13|5o5o
+0-00-13|4ooo|0-00-13|4o4o|4-45-31|3ooo

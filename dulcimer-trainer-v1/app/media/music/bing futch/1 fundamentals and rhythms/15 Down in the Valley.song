@@ -1,0 +1,18 @@
+//
+//	Track 15 Down in the Valley
+//
+type := dulcimer
+tempo := 160 					
+beats := 3
+tuning := d3,a3,a3
+drone := Yes
+
+
+
+:a 0 3 4 | 5oo | 3oo | | 5 4 3 | 4oo | | | ;				// a is bars 1-9.
+
+|
+$a 															// bars 1-9
+0 2 4 | 6oo | 4oo | | 2 3 4 | 3oo | | |						// bars 10-16
+$a 															// bars 1-9 repeated
+6oo | 4oo | | 6 5 4 | 3oo |||								// bars 17-23

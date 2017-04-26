@@ -1,0 +1,18 @@
+//
+//	Go tell Aunt Rhody
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+<D> 0,0,2o 0,0,2 0,0,1 "Go tell Aunt" |
+0,0,0o 0,0,0o "Rho-dy"|
+<A> 1,0,1o 1,0,1 1,0,3 "Go tell Aunt" |
+1,0,2 1,0,1 <D> 0,0,0o "Rho-dy"|
+<D> 0,0,4o 0,0,4 0,0,3 "Go tell Aunt" |
+0,0,2o 0,0,2 0,0,2 "Rho-dy*The"|
+<A> 1,0,1 1,0,0 1,0,1 1,0,2 "old grey goose is"|
+XXX-- <D> 0,0,0ooo "dead.*"|

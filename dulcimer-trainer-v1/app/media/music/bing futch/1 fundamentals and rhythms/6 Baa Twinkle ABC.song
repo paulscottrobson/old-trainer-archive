@@ -1,0 +1,22 @@
+//
+//	Track 6 Baa Twinkle ABC
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+ |
+ 3 3 7 7 |
+ 8 8 7o |
+ 6 6 5 5  |
+ 4 4 3o |
+ 7 7 6 6 |
+ 5 5 4o |
+ 7 7 6 6 |
+ 5 5 4o |
+ 3 3 7 7  |
+ 8 8 7o |
+ 6 6 5 5  |
+ 4 4 3o |

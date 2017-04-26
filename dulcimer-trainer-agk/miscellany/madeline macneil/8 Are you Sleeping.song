@@ -1,0 +1,22 @@
+//
+//		Page 15: Are you sleeping ?
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+|
+3 4 5 3 "Are you sleeping" |
+3 4 5 3 "Are you sleeping" |
+5 6 7o "Brother John ?" |
+5 6 7o "Brother John ?" |
+7- 8- 7- 6- 5 3 "Morning Bells are Ringing" |
+7- 8- 7- 6- 5 3 "Morning Bells are Ringing" |
+3 0 3 "Ding dong ding"|
+3 0 3 "Ding dong ding"|

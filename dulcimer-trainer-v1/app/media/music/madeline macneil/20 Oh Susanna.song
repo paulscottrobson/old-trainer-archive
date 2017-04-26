@@ -1,0 +1,29 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	20 Oh Susanna
+//
+
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,a3
+
+ &oo 203- 404- 							"*I" |
+ 405 707 707 708 							"come from Ala-" |
+ 707 405 203 404 							"-bama with my" |
+ 405 405 404 403 							"banjo on my" |
+ 404 404- 404- 404 403- 404- 				"knee*I'm" |
+ 405 707 707 708 							"going to Lousi-" |
+ 707 405 203 404							"-ana my" |
+ 405 405 404 404							"true love for to" |
+ 3 3- 3- 3 3- 3- 							"see" |
+
+ 036 036- 036- 036 036- 036- 				"Oh Su-" |
+ 068 068- 068- 068 068						"-sanna Oh" |
+ 057 057 035 033							"don't you cry for" |
+ 404 404- 404- 404 403- 404-				"me*I" |
+ 405 707 707 708 							"come from Ala-" |
+ 707 405 203 404							"-bama with my" |
+ 405 405 304 304							"banjo on my" |
+ 203 203- 203- 003o						"knee" |

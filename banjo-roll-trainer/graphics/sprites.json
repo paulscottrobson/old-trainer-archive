@@ -1,0 +1,119 @@
+{
+    "frames":{
+        "i_stop": {
+            "frame":{ "x":120,"y":196,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "background": {
+            "frame":{ "x":0,"y":0,"w":252,"h":192 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":252,"h":192 },
+            "sourceSize":{ "w":252,"h":192 }
+        },
+        "note": {
+            "frame":{ "x":0,"y":196,"w":117,"h":267 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":117,"h":267 },
+            "sourceSize":{ "w":117,"h":267 }
+        },
+        "circle": {
+            "frame":{ "x":0,"y":464,"w":87,"h":87 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":87,"h":87 },
+            "sourceSize":{ "w":87,"h":87 }
+        },
+        "i_normal": {
+            "frame":{ "x":120,"y":328,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "icon_frame": {
+            "frame":{ "x":200,"y":592,"w":54,"h":54 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":54,"h":54 },
+            "sourceSize":{ "w":54,"h":54 }
+        },
+        "rectangle": {
+            "frame":{ "x":132,"y":660,"w":76,"h":51 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":76,"h":51 },
+            "sourceSize":{ "w":76,"h":51 }
+        },
+        "frame": {
+            "frame":{ "x":132,"y":592,"w":64,"h":64 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":64,"h":64 },
+            "sourceSize":{ "w":64,"h":64 }
+        },
+        "i_play": {
+            "frame":{ "x":120,"y":460,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "i_metronome_on": {
+            "frame":{ "x":0,"y":592,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "i_music_off": {
+            "frame":{ "x":0,"y":724,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "i_faster": {
+            "frame":{ "x":0,"y":856,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "i_slower": {
+            "frame":{ "x":0,"y":988,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "i_metronome_off": {
+            "frame":{ "x":0,"y":1120,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        },
+        "i_music_on": {
+            "frame":{ "x":0,"y":1252,"w":128,"h":128 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":128,"h":128 },
+            "sourceSize":{ "w":128,"h":128 }
+        }
+    },
+    "meta":{
+        "app":"Paul Robson's Python texture packer",
+        "version":"1.0",
+        "image":"sprites.png",
+        "size":{
+             "w":256,
+             "h":1382
+         },
+         "scale":1
+    }
+}

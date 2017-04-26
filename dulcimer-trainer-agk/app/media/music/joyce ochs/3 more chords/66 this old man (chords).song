@@ -1,0 +1,19 @@
+//
+//		Exercises 66 this old man (chords)
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+4 2 4 o  "This old man" |
+4 2 4 o  "he played one" |
+335 224 113 002  "he played nick nack" |
+101 102 103 102- 103-  "on my thumb with a" |
+
+4 0 0- 0- 0  "nick nack paddi wack" |
+0- 1- 2- 3- 4o  "give the dog a bone" |
+104 101 101 103  "this old man came" |
+102 101 000o  "rolling home" |

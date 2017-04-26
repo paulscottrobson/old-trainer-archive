@@ -1,0 +1,21 @@
+1 scale exercise.music
+10 boil that cabbage down 2.music
+11 boil that cabbage down 3.music
+12 boil that cabbage down 4.music
+13 waterbound.music
+14 soldiers joy.music
+15 cripple creek.music
+16 john browns dream.music
+17 down in the valley.music
+18 down in the valley (harmony).music
+19 ode to joy.music
+2 strumming in rhythm 1.music
+20 oh susanna.music
+21 chord study.music
+3 strumming in rhythm 2.music
+4 strumming in rhythm 3.music
+5 strumming exercise 1.music
+6 strumming exercise 2.music
+7 strumming exercise 3.music
+8 are you sleeping.music
+9 boil that cabbage down 1.music

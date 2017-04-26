@@ -1,0 +1,31 @@
+//
+//		Exercises 88 amazing grace
+//
+type := dulcimer
+tempo := 80 					
+beats := 3
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+
+&& X0X  "a" |
+0o 2- 0-  "mazing" |
+2o 1  "grace how" |
+310o X1X  "sweet the" |
+
+20X 0XX X0X  "sound that" |
+0o 2- 0-  "saved a" |
+2o 1  "wretch like" |
+324o 5  "me" |
+
+324o 322  "i" |
+4. 2- 4- 2-  "once was" |
+0o X0X  "lost but" |
+31X. 310- 310- X1X-  "now i'm" |
+
+20X 0XX X0X  "found was" |
+210o 212-  210-  "blind but" |
+102o 101  "now i" |
+000o 310  "see" |
+200o 0XX  "" |

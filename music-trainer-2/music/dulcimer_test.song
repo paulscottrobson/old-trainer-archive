@@ -1,0 +1,18 @@
+//
+//		Dulcimer
+//
+type := dulcimer
+beats := 4
+tempo := 150
+pattern_1 := v.vn.nvn:v.v.v.v.
+pattern_2 := vnvnvnvn
+tuning := d3,a4,d4
+chord_D := 002
+chord_G := 013
+chord_Bm := 210
+
+B0C0M0 |B1C1M1 |B2C2M2 |[123]|
+M0123|456+7|89TL | WHF
+{D} @1 {G} Hello world|This is|me|{4Bm}I @2 like chips
+
+

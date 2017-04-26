@@ -1,0 +1,18 @@
+//
+//	London Bridge
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+<D> 4. 5- 4 3 				"London bridge is"|
+2 3 4o 						"falling down"|
+<A> 1,0,1 1,0,2 1,0,3o		"falling down"|
+<D> 2 3 4o					"falling down"|
+<D> 4. 5- 4 3 				"London bridge is"|
+2 3 4o 						"falling down"|
+<A> 1,0,1o 1,0,4o			"my fair"|
+<D> 2 0oo 					"lady*"|

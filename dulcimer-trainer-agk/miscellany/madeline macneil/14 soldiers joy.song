@@ -1,0 +1,25 @@
+//
+//		Page 23 : Soldiers Joy
+
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+"" |
+
+7 5 7 5 | 7 t t t- t- | 7 5 7 5 | 6 4 4 4- 4- |
+7 5 7 5 | 7 t t t- e- | w t e 9 | t t t t- t- |
+
+7 5 7 5 | 7 t t t- t- | 7 5 7 5 | 6 4 4 4- 4- |
+7 5 7 5 | 7 t t t- e- | w t e 9 | t t t t- t- |
+
+5 6 7 7- 7- | 4 5 6 6- 6- | 5 6 7 7- 7- | 4 2 0 0- 0- |
+5 6 7 7- 7- | 4 5 6 6- 6- | 5 3 4 2 | 3 3- 3- 3o |
+
+5 6 7 7- 7- | 4 5 6 6- 6- | 5 6 7 7- 7- | 4 2 0 0- 0- |
+5 6 7 7- 7- | 4 5 6 6- 6- | 5 3 4 2 | 3 3- 3- 3o |

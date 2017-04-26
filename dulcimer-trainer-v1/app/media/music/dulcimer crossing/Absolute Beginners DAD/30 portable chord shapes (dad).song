@@ -1,0 +1,131 @@
+//
+//	DAD Portable Chord Shapes
+//
+type := dulcimer
+tempo := 40 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.......
+drone := No
+
+// L-Shapes
+
+chord_d.0 := 0,0,2
+chord_em.0 := 1,1,3
+chord_f#m.0 := 2,2,4
+chord_g.0 := 3,3,5
+chord_am.0 := 4,4,6
+chord_a.0 := 4,4,6+
+chord_bm.0 := 5,5,7
+chord_c.0 := 6,6,8
+
+@1|
+
+[D.0] 		"*l-shape*"|
+[Em.0] 		"*l-shape*"|
+[F#m.0] 	"*l-shape*"|
+[G.0] 		"*l-shape*"|
+[Am.0] 		"*l-shape*"|
+[A.0] 		"*l-shape*"|
+[Bm.0] 		"*l-shape*"|
+[C.0] 		"*l-shape*"|
+
+// Slant
+
+chord_bm.1 := 0,1,2
+chord_a7.1 := 1,2,3
+chord_d.1 := 2,3,4
+chord_em.1 := 3,4,5
+chord_f#m.1 := 4,5,6
+chord_g.1 := 5,6,7
+chord_am.1 := 6,7,8
+chord_bm.1a := 7,8,9
+
+[bm.1] 		"*slant*"|
+[a7.1] 		"*slant*"|
+[d.1] 		"*slant*"|
+[em.1] 		"*slant*"|
+[f#m.1] 	"*slant*"|
+[g.1] 		"*slant*"|
+[am.1] 		"*slant*"|
+[bm.1a] 	"*slant*"|
+
+// Left Triangle
+
+chord_a.2 := 1,0,1
+chord_d.2 := 2,0,2
+chord_e.2 := 3,1,3
+chord_f#m.2 := 4,2,4
+chord_g.2 := 5,3,5
+chord_am.2 := 6,4,6
+chord_a.2a := 6+,4,6+
+
+[a.2] 		"*left triangle*"|
+[d.2] 		"*left triangle*"|
+[e.2] 		"*left triangle*"|
+[f#m.2] 	"*left triangle*"|
+[g.2] 		"*left triangle*"|
+[am.2] 		"*left triangle*"|
+[a.2a] 		"*left triangle*"|
+
+// Right Triangle
+
+chord_g.3 := 0,1,0
+chord_a.3 := 1,2,1
+chord_d.3 := 2,3,2
+chord_em.3 := 3,4,3
+chord_f#m.3 := 4,5,4
+chord_g.3a := 5,6,5
+chord_e.3 := 5,6+,5
+chord_am.3 := 6,7,6
+
+[g.3] 		"*right triangle*"|
+[a.3] 		"*right triangle*"|
+[d.3] 		"*right triangle*"|
+[em.3] 		"*right triangle*"|
+[f#m.3] 	"*right triangle*"|
+[g.3a] 		"*right triangle*"|
+[e.3] 		"*right triangle*"|
+[am.3] 		"*right triangle*"|
+
+// Reverse L-Shapes
+
+chord_d.4 := 2,0,0
+chord_em.4 := 3,1,1
+chord_f#m.4 := 4,2,2
+chord_g.4 := 5,3,3
+chord_am.4 := 6,4,4
+chord_a.4 := 6+,4,4
+chord_bm.4 := 7,5,5
+chord_c.4 := 8,6,6
+
+@1|
+
+[D.4] 		"*Reverse l-shape*"|
+[Em.4] 		"*Reverse l-shape*"|
+[F#m.4] 	"*Reverse l-shape*"|
+[G.4] 		"*Reverse l-shape*"|
+[Am.4] 		"*Reverse l-shape*"|
+[A.4] 		"*Reverse l-shape*"|
+[Bm.4] 		"*Reverse l-shape*"|
+[C.4] 		"*Reverse l-shape*"|
+
+// Reverse Slant
+
+chord_bm.5 := 2,1,0
+chord_a7.5 := 3,2,1
+chord_d.5 := 4,3,2
+chord_em.5 := 5,4,3
+chord_f#m.5 := 6,5,4
+chord_g.5 := 7,6,5
+chord_am.5 := 8,7,6
+chord_bm.5a := 9,8,7
+
+[bm.5] 		"*Reverse slant*"|
+[a7.5] 		"*Reverse slant*"|
+[d.5] 		"*Reverse slant*"|
+[em.5] 		"*Reverse slant*"|
+[f#m.5] 	"*Reverse slant*"|
+[g.5] 		"*Reverse slant*"|
+[am.5] 		"*Reverse slant*"|
+[bm.5a] 	"*Reverse slant*"|

@@ -1,0 +1,29 @@
+//
+//		Exercises 74 little liza jane
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+2 0- 0- 1 0  "I got a gal and" |
+2 4 4  "you've got none" |
+335 4o 2  "li'l liza" |
+004ooo  "jane" |
+
+2 0- 0- 1 0  "I got a gal that" |
+2 4 4  "calls me hon" |
+102 102o 101  "li'l liza" |
+000ooo  "jane" |
+
+057oo 054  "oh e" |
+065o 054o  "liza" |
+032 054o 065  "li'l liza" |
+054ooo  "jane" |
+
+057oo 054  "oh e" |
+065o 054o  "liza" |
+102 101o 101  "li'l liza" |
+000ooo  "jane" |

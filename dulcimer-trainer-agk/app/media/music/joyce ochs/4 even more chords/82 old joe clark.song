@@ -1,0 +1,29 @@
+//
+//		Exercises 82 old joe clark
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+4 5 6 5  "old joe clark he" |
+4 3 2o  "built a house" |
+4 5 6 5  "took him 'bout a" |
+324ooo  "week" |
+
+4 5 6 5  "built the floors a" |
+4 3 2o  "bove his head" |
+2 2 101- 101- 101  "ceiling under his" |
+0ooo  "feet" |
+
+0o 0o  "rock rock" |
+4 3 2o  "old joe clark" |
+0 0 1 0  "rock a rock i'm" |
+101ooo  "gone" |
+
+0o 0o  "rock rock" |
+4 3 2o  "old joe clark" |
+0 2 101 101  "goodbye lucy" |
+0ooo  "long" |

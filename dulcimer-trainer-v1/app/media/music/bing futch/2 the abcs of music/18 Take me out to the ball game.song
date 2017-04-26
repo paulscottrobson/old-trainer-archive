@@ -1,0 +1,14 @@
+//
+//	Track 18 Take me out to the ball game.
+//
+type := dulcimer
+tempo := 120 					
+beats := 3
+tuning := d3,a3,d4
+drone := Yes
+
+|
+0o 7 | 5 4 2 | 4oo | 1oo | 0o 7 | 5 4 2 | 4oo | oo4 |
+5 4 5 | 2 3 4 | 5o 3 | 1oo | 5o 5 | 5 6+ 7 | 8 6+ 5 |
+4 2 1 | 0o 7 | 5 4 2 | 4oo | 1oo | 0o 1 | 2 3 4 | 5oo |
+o 5 6+ | 7oo | 7oo |7 6+ 5 | 4 2 4 | 5oo | 6+oo | 7oo |

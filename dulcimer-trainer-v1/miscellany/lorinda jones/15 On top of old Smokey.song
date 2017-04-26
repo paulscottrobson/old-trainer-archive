@@ -1,0 +1,12 @@
+//
+// On top of old smokey
+//
+type := dulcimer
+tempo := 100 					
+beats := 3
+tuning := d3,a3,d4
+drone := Yes
+
+|
+& & 0 | 0 2 4 | 7oo | 5o 5 | 3 4 5 | 4oo | oo0 |
+0 2 4 | 4oo | 1o 2 | 3 2 1 | 0oo |

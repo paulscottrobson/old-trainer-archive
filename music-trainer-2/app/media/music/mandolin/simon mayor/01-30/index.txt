@@ -1,0 +1,13 @@
+10 open strings 1.music
+12 open strings 2.music
+13 open strings 3.music
+14 open strings 4.music
+18 scale of a major.music
+19 scale of d major.music
+20 scale of g major.music
+23 dose digital dexterity 1.music
+24 dose digital dexterity 2.music
+25 ode to joy.music
+26 floral dance.music
+27 wildwood flower.music
+28 heighten scales g.music

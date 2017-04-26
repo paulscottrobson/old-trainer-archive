@@ -1,0 +1,21 @@
+//
+//	DAD Mary Had a Little Lamb
+//
+type := dulcimer
+tempo := 90 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.v.v.v.
+drone := Yes
+
+@1|
+[2 1 0 1] "Mary had a" |
+[2 2 2 2] "little lamb"|
+[1 1 1 1] "little lamb"|
+[2 4 4 4] "little lamb"|
+[2 1 0 1] "Mary had a" |
+[2 2 2 0] "little lamb its"|
+[1 1 2 1] "fleece was white as" |
+[0 X X X] "snow*" |
+
+

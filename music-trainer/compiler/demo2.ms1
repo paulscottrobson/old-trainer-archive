@@ -1,0 +1,15 @@
+//
+//	Setup stuff
+//
+name := Camptown Races
+author := 
+instrument := Ocarina
+type := ocarinacsop
+speed := 100
+Beats := 4
+
+a- b- c- d- e- f- g- A#- | A- B= C- D- E- F- G- c#-
+&oo A |A A f# A | B A f#o | f# eoo | f# doo
+&oo A |A A f# A | B A f#o | eo f# e | dooo
+d. d- f# A | dooo | B. B- D B | Aooo
+&oo f#- g- | A A f# A | B A f#o | e. g- f# e | dooo

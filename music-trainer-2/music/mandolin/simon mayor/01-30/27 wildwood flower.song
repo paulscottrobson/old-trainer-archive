@@ -1,0 +1,13 @@
+//
+//		27 : Wildwood Flower
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & |
+D&&45|A0o25|D4o54|2o42|0o45|A0o25
+
+D4o54|2o42|0oo^0|E2o20|A5o00|25o2
+
+D^0o02|4o42|4^0o4|2o42|0

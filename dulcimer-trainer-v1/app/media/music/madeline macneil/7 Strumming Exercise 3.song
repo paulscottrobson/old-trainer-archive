@@ -1,0 +1,16 @@
+//
+//	Madelaine McNeill "You can teach yourself Dulcimer"
+//
+//	7. Strumming exercise 3
+//
+
+type := dulcimer
+tempo := 60 					
+beats := 3
+tuning := d3,a3,a3
+|
+ 3 5- 5- 5 |
+ 4 6- 6- 6 |
+ 7 5 3 |
+ 4 5- 5- 4 |
+ 3 3- 3- 3 |

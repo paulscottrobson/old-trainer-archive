@@ -1,0 +1,15 @@
+//
+//	London Bridge
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+4 5 4 3 | 2 3 4o |
+1 2 3o |
+2 3 4o |
+4 5 4 3 | 2 3 4o |
+1o 4o | 2 0oo |

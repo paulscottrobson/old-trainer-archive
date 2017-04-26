@@ -1,0 +1,18 @@
+//
+//		Exercises 35 merrily we roll along
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+2 1 0 1 "merrily we"|
+2 2 2o "roll along"|
+101 101 101o "roll along"|
+2 4 4o "roll along"|
+2 1 0 1 "merrily we"|
+2 2 2o "roll along"|
+101 101 102 101 "oer the deep blue"|
+000ooo "sea"|

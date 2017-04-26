@@ -1,0 +1,11 @@
+//
+//		24 : Dose digital dexterity #2
+//
+type := mandolin
+beats := 4
+tempo := 80
+
+ & |
+
+G0^50^4|0^20^0|0^50^4|0^20^0
+G5^04^0|2^00^0|5^04^0|2^00^0

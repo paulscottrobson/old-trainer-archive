@@ -1,0 +1,17 @@
+//
+//		Exercises 10-13 Note values
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+
+| 
+0 0 0 0 | 
+0 0 0 0 | 
+0o 0o |
+0o 0o |
+0ooo |
+0ooo |
+0- 0- 0- 0- 0- 0- 0- 0- |
+0- 0- 0- 0- 0- 0- 0- 0- |

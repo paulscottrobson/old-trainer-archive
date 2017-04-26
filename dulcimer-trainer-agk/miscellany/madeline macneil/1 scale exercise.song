@@ -1,0 +1,17 @@
+//
+//		Page 10: Scale Exercise
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,a3
+drone := No
+|
+0XX 1XX 2XX 3XX |
+0 1 2 3 |
+4 5 6 7 |
+8 9 t |

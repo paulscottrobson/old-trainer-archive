@@ -1,0 +1,22 @@
+//
+//		Page 21 : Waterbound
+
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+"" |
+
+405 404 203 203- 203- "waterbound and i" |
+405 404 203 203- 203- "cant go home" |
+404 404 405 405- 405- "waterbound and i" |
+303 301 000 000- 000- "cant go home" |
+000 001 003 003- 003- "waterbound and i" |
+035 057 068 068 "cant go home way" |
+057 035 404 404- 404- "down to north caro" |
+003 003- 003- 003o "lina" |

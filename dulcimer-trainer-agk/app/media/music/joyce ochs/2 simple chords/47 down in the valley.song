@@ -1,0 +1,37 @@
+//
+//		Exercises 47 down in the valley
+//
+type := dulcimer
+tempo := 80 					
+beats := 3
+tuning := d3,a3,d4
+drone := Yes
+
+|
+X0X 0 1 "down in the"|
+2oo "val"|
+0o 2 "ley the"|
+2 1 0 "valley so"|
+101oo "low"|
+ooo |
+
+X0X X2X XX1 "hang your head"|
+104oo "o"|
+104oo "ver"|
+103 102 101 "hear the wind"|
+0oo "blow"|
+ooo |
+
+X0X 0 1 "hear the wind"|
+2oo "blow"|
+0oo "dear"|
+2 1 0 "hear the wind"|
+101oo "blow"|
+ooo |
+
+X0X X2X XX1 "hang your head"|
+104oo "o"|
+104oo "ver"|
+103 102 101 "hear the wind"|
+0oo "blow"|
+ooo |

@@ -1,0 +1,31 @@
+//
+//		Exercises 71 oh ! susanna
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ |
+&&& 0- 1-  "oh i" |
+2 4 4. 5-  "come from Ala" |
+4 2 0. 1-  "bama with my" |
+2 2 1 0  "banjo on my" |
+
+101oo 0- 1-  "knee. And I'm" |
+2 4 4. 5-  "going to Lousi" |
+4 2 0. 1-  "ana my" |
+2 2 101 101  "true loe for to" |
+
+000oo &  "see" |
+
+013o 013o  "oh su" |
+335 335o 335  "sanna oh" |
+4 4 2 0  "dont you cry for" |
+101oo 0- 1-  "me for I" |
+
+2 4 4. 5-  "come from Ala" |
+4 2 0. 1-  "bama with my" |
+2 2 101 101  "banjo on my" |
+0oo  "knee" |

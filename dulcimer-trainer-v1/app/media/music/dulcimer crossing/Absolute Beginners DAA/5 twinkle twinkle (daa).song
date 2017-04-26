@@ -1,0 +1,25 @@
+//
+//	DAA Twinkle Twinkle Little Star
+//
+type := dulcimer
+tempo := 60 					
+beats := 4
+tuning := d3,a3,a3
+pattern_1 := v.v.v.v.
+drone := Yes
+
+@1|
+[ 3 3 7 7 ] "Twinkle Twinkle" |
+[ 8 8 7 ] "Little Star" |
+[ 6 6 5 5 ] "How I wonder"|
+[ 4 4 3 ] "What you are"|
+[ 7 7 6 6 ] "Up above the" |
+[ 5 5 4  ] "world so high"|
+[ 7 7 6 6 ] "Like a diamond" |
+[ 5 5 4  ] "In the Sky"|
+[ 3 3 7 7 ] "Twinkle Twinkle" |
+[ 8 8 7 ] "Little Star" |
+[ 6 6 5 5 ] "How I wonder"|
+[ 4 4 3 ] "What you are"|
+
+

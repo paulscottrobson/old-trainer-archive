@@ -1,0 +1,20 @@
+//
+//		Exercises 66 michael, row the boat ashore
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+&& 0 2  "Michael" |
+4. 2- 4 5  "row the boat a" |
+4o 2 4  "shore halle" |
+335ooo  "lu" |
+
+4o 2 4  "ya Michael" |
+224. 222- 113 112  "Michael" |
+101o 100 101  "shore halle" |
+2o 101o  "lu" |
+200o 0XXo  "ya" |

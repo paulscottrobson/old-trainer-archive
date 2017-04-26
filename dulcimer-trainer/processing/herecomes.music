@@ -1,0 +1,17 @@
+
+name := Here Comes the Sun (in A)
+author := Lennon and MacCartney
+beats := 4
+speed := 120
+drone := No
+accidentals := f#,c#,g#
+
+& c- A- B- c. | &- c B A F. | &- A B A. | F- Eo
+& c- A- B- c. | &- c B A F. | &- c- B A G- | &
+
+& c- B c A- | & E- C- D- E. | & c- B c A- | &. c- B A
+&- c B A E- | F- A- B- E- A- B- D- A- | B- E- A- B- A- G- F- E- 
+
+// Later parts require c@ g@ G@ (in the "Sun sun sun" bit)
+
+c@ g@ G@

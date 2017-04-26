@@ -1,0 +1,17 @@
+//
+//		Exercises 86 g chord inversion
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+
+013 013 013 013 |
+310 310 310 310 |
+013 013 013 013 |
+310 310 310 310 |
+013 013 013 013 |
+310 310 310 310 |

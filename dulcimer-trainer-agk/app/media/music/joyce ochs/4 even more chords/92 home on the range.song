@@ -1,0 +1,48 @@
+//
+//		Exercises 92 Home on the Range
+//
+type := dulcimer
+tempo := 80 					
+beats := 3
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+&& X0X  "oh" |
+00X 0 1  "give ma a" |
+2o XX0- X2X  "home where the" |
+31X 013 013  "buffalo " |
+013o XX2- XX3-  "roam wher the" |
+4. 0- 0  "deer and the" |
+
+110 X2X 110  "antelope" |
+101o XX2  "play" |
+XX3o X0X  "where" |
+00X 0 1  "seldom is" |
+002o XX0- X2X-  "head a dis" |
+31X 013 013  "couraging" |
+
+013o 013- 013-  "word and the" |
+2. 1- 0  "skie are not" |
+12X XX0 101  "cloudy all" |
+200o 1XX  "day" |
+0XXoo  "" |
+004oo  "home" |
+
+103 102. 101-  "home on the" |
+002oo  "range" |
+0XXo X0X- X0X-  "where the" |
+110. 110- 110  "deer and the" |
+110 X2X 110  "antelope" |
+101o XX2  "play" |
+
+XX3o X0X  "where" |
+00X 000 001  "seldom is" |
+2o XX0- X2X-  "heard a dis" |
+31X 013 013  "couraging" |
+
+013o 013- 013-  "word and the" |
+2. 1- 0  "skies are not" |
+12X XX0 101  "cloudy all" |
+200o 1XX  "day" |
+0XX  "" |

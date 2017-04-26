@@ -1,0 +1,21 @@
+//
+//		Page 19: Boil that cabbage down, harmony
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+|
+7 7- 7- 7 7- 7- |
+8 8- 8- 8 8- 8- |
+7 7- 7- 7 7- 7- |
+6 6- 6- 6 6- 6- |
+7 7- 7- 7 7- 7- |
+8 8- 8- 8 8- 8- |
+7 7- 7- 6 6- 6- |
+5 5- 5- 5o |

@@ -1,0 +1,10 @@
+{
+	"name":			"Dulcimer tuned DAA",
+	"key":			"dulcimerdaa",
+	"voices":		3,
+	"soundset":		"dulcimer",
+	"tuning":		[3,10,10],
+	"volume":		[0.5,0.5,1],
+	"visualtype":	[1,1,2],
+	"chromatic":	false
+}

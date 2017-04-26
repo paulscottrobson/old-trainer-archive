@@ -1,0 +1,21 @@
+//
+//		Page 19: Boil that cabbage down, bass harmony
+//
+//		From "You can teach yourself Dulcimer" by Madeline MacNeill
+//		Transcribed by Paul Robson paul@robsons.org.uk
+//
+
+type := dulcimer
+tempo := 80					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+|
+405 405- 405- 405 405- 405- |
+506 506- 506- 506 506- 506- |
+405 405- 405- 405 405- 405- |
+304 304- 304- 304 304- 304- | 
+405 405- 405- 405 405- 405- |
+506 506- 506- 506 506- 506- |
+405 405- 405- 304 304- 304- |
+203 203- 203- 203o |

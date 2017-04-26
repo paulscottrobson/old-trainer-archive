@@ -1,0 +1,16 @@
+//
+//	Track 3 Note Beat Duration
+//
+type := dulcimer
+tempo := 60 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+
+|
+ 0ooo  |
+ 0o 0o |
+ 0 0 0 0 |
+ 0- 0- 0- 0- 0- 0- 0- 0- |
+ 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= |

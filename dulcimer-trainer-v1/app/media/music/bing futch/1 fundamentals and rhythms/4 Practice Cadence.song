@@ -1,0 +1,16 @@
+//
+//	Track 4 Practice Cadence
+//
+type := dulcimer
+tempo := 40 					
+beats := 4
+tuning := d3,a3,a3
+drone := Yes
+
+
+|
+ 0ooo  |
+ 0o 0o |
+ 0 0 0 0 |
+ 0- 0- 0- 0- 0- 0- 0- 0- |
+ 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= 0= |

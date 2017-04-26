@@ -1,0 +1,12 @@
+//
+//	Demo tab1 file - twinkle twinkle little star.
+//
+title := Twinkle twinkle little star
+author := C.J. Veniot (Traditional Tune)
+beats := 4
+tempo := 80
+tuning := D3,A3,D4
+
+0 0 4 4 | 5 5 4o | 3 3 2 2 | 1 1 0o
+4 4 3 3 | 2 2 1o | 4 4 3 3 | 2 2 101o
+0 0 4 4 | 5 5 4o | 3 3 2 2 | 1 1 000o

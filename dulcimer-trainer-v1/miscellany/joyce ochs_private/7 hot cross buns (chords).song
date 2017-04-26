@@ -1,0 +1,14 @@
+//
+//	Hot cross buns (chord)
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+XXX-- <D> 0,0,2 <A> 1,0,1  <D> 0,0,0o "Hot cross buns !"|
+XXX-- <D> 0,0,2 <A> 1,0,1  <D> 0,0,0o "Hot cross buns !"|
+0,0,0- 0,0,0- 0,0,0- 0,0,0- <A> 1,0,1- 1,0,1- 1,0,1- 1,0,1- "1-a-penny 2-a-penny"|
+XXX-- <D> 0,0,2  <A> 1,0,1 <D> 0,0,0o "Hot cross buns !"|

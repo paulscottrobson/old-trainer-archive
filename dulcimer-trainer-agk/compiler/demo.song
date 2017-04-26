@@ -1,0 +1,16 @@
+//
+//		Song test
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+pattern_1 := v.v.v.v.
+drone := Yes
+syncopation := 50
+
+chord_d := 2,0,0
+chord_a := 1,0,1
+
+@1 [ D] "I /like/ chips"|
+[A ] "But I don't" |

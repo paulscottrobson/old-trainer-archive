@@ -1,0 +1,32 @@
+//
+//		Exercises 64 Kumbaua
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+&& 0 2  "Kum ba" | 
+4. 4- 4o  "My Lord" | 
+0XXo 335 335  "Kum ba" |
+004ooo  "Yah" |
+
+0XXo 0 2  "Kum ba" |
+224. 224- 224o  "My Lord" |
+2XXo 113 112  "Kum ba" | 
+101ooo  "Yah" |
+
+X0Xo 0 2  "Kum ba" | 
+4. 4- 4o  "My Lord" |
+0XXo 335 335  "Kum ba" |
+004ooo  "Yah" |
+
+0XXo 013o  "Oh" |
+002 000oo  "Lord" |
+X0Xo 101 101  "Kum ba" |
+200ooo  "Yah" | 
+0XXo  "" |
+
+

@@ -1,0 +1,12 @@
+//
+// Lightly Row
+//
+type := dulcimer
+tempo := 100 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+4 2 2o | 3 1 1o | 0 1 2 3 | 4 4 4o |
+4 2 2o | 3 1 1o |  0 2 4 4 | 0ooo |

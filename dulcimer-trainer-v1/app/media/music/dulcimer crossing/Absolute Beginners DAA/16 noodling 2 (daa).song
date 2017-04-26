@@ -1,0 +1,23 @@
+//
+//	DAA Noodling 2
+//
+type := dulcimer
+tempo := 40 					
+beats := 4
+tuning := d3,a3,a3
+pattern_1 := v.......
+pattern_2 := v...v...
+pattern_3 := v.v.v.v.
+
+drone := Yes
+chord_q := 0,0,1;1,0,2;2,0,3;3,0,4;4,0,5;5,0,6;6,0,7;7,0,8;8,0,9
+|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|
+@2 [Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|[Q Q Q Q]|

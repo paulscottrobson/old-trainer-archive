@@ -1,0 +1,18 @@
+//
+//		Exercises 38 london bridge
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+|
+4. 5- 4 3 "london bridge is"|
+2 3 4o "falling down"|
+101 102 103o "falling down"|
+2 3 4o "falling down"|
+4. 5- 4 3 "london bridge is"|
+2 3 4o "falling down"|
+101o 104o "my fair"|
+002 000oo "lady"|

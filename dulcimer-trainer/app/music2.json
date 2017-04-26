@@ -1,0 +1,33 @@
+{
+    "accidentals":"",
+    "author":"Traditional",
+    "beats":4,
+    "capo":0,
+    "diatonic":1,
+    "drone":"Yes",
+    "format":0,
+    "name":"Old Joe Clark",
+    "speed":140,
+    "transpose":0,
+    "tuning":"DAD",
+    "version":"1.0",
+    "voices":3,
+    "bars":[
+            "AAH4AAJ4AAK4AAJ4",
+            "AAH4AAF4AAE4",
+            "AAH4AAJ4AAK4AAJ4",
+            "FEH4",
+            "AAH4AAJ4AAK4AAJ4",
+            "AAH4AAF4AAE4",
+            "AAE4AAE4CAC2CAC2CAC4",
+            "AAA4",
+            "AAA8AAA8",
+            "AAH4AAF4AAE4",
+            "AAA4AAA4AAC4AAA4",
+            "CAC4",
+            "AAA8AAA8",
+            "AAH4AAF4AAE4",
+            "AAA4AAE4CAC4CAC4",
+            "AAA4"
+    ]
+}

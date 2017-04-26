@@ -1,0 +1,20 @@
+//
+//		Exercises 52 three jolly fishermen
+//
+type := dulcimer
+tempo := 80 					
+beats := 4
+tuning := d3,a3,d4
+drone := Yes
+
+ "" |
+&&& X0X  "there" |
+0- 0- 0- 1- 2 101  "were 3 jolly fisher" |
+0oo X0X  "men there" |
+2- 2- 2- 3- 4 103  "were 3 jolly fisher" |
+2ooo  "men" |
+
+4- 2- 4- 2- 0- 0- 0  "fisher fisher men men men" |
+4- 2- 4- 2- 0- 0- 0- X0X-  "fisher fisher men men men there" |
+0- 0- 0- 1- 2 1  "were 3 jolly fisher" |
+0ooo  "men" |
